@@ -14,6 +14,7 @@ This is a simple, context-aware chatbot that uses Google's **Gemini API** to car
 
 ---
 
+
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
